@@ -1,4 +1,4 @@
 # README
 
-.doc/install.linux.md
+[Linux Install](.doc/install.linux.md)
 
