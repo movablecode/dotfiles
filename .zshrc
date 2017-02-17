@@ -86,7 +86,7 @@ source $ZSH/oh-my-zsh.sh
 alias psmem='ps -e -o user,pid,pcpu,rss,command | grep'
 alias nscr='npm run-script'
 alias disc='df -h'
-alias vultr_hdd='ssh smlee@107.191.61.208'
+alias kross001='ssh kross27@108.61.200.242'
 alias vultr_ssd='ssh smlee@108.61.223.242'
 alias vultr_8g='ssh smlee@107.191.61.217'
 alias rocks='luarocks --tree lua_modules'
